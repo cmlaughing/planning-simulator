@@ -1,7 +1,7 @@
 # planning-simulator
 Simple Path Planning Simulator for Research
 # interface
-![](http://github.com/cmlaughing/planning-simulator/blob/master/img/res_sim.png)
+![](https://github.com/cmlaughing/planning-simulator/raw/master/img/res_sim.png)
 # dependences
 * qtcreator
 * Eigen
